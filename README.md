@@ -7,6 +7,7 @@ About me
 
 ### Languages and Tools
 ![Postman](https://img.shields.io/badge/-Postman-222222?style=for-the-badge&logo=Postman)
-![ApacheJMeter]
+![ApacheJMeter](https://img.shields.io/badge/-ApacheJMeter-090909?style=for-the-badge&logo=ApacheJMeter&logoColor=D22128)
+
 
 Follow Me
