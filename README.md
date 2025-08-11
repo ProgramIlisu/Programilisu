@@ -3,7 +3,7 @@
 ![Header](https://github.com/ProgramIlisu/Programilisu/blob/main/assert/QA.png)
 
 About me
-## Всем привет меня зовут Denis я QA Engineer (Тестировщик ПО). Это мой аккаунт 
+## Всем привет меня зовут Denis, я QA Engineer (Тестировщик ПО). Это мой аккаунт 
 
 ### Languages and Tools
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=FF6C37)
