@@ -17,6 +17,8 @@ About me
 ![Fiddler](https://img.shields.io/badge/-Fiddler-090909?style=for-the-badge&logo=Fiddler&logoColor=5ce400)
 ![Android_Studio](https://img.shields.io/badge/-Android_Studio-090909?style=for-the-badge&logo=AndroidStudio&logoColor=3DDC84)
 ![bash](https://img.shields.io/badge/-bash-090909?style=for-the-badge)
+![MySQL](https://shields.io/badge/-MySQL-090909?style=for-the-badge&logo=MySQL&logoColor=4479A1)
 
-
-Follow Me
+### Follow Me
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/ErikStrayker)
+[![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=VK&logoColor=0077FF)](https://vk.com/ilisu_33)
