@@ -18,7 +18,7 @@
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=3776AB)
 ![Charles Proxy](https://img.shields.io/badge/-Charles-090909?style=for-the-badge&logo=Charles&logoColor=F3F5F5)
 ![Devtools](https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=4285F4)
-![Fiddler](https://www.telerik.com/fiddler/badge/-Fiddler-090909?style=for-the-badge&logo=Fiddler&logoColor=5ce400)
+![Fiddler](https://img.shields.io/badge/-Fiddler-090909?style=for-the-badge&logoColor=5ce400)
 ![Android_Studio](https://img.shields.io/badge/-Android_Studio-090909?style=for-the-badge&logo=AndroidStudio&logoColor=3DDC84)
 ![bash](https://img.shields.io/badge/-bash-090909?style=for-the-badge)
 ![MySQL](https://shields.io/badge/-MySQL-090909?style=for-the-badge&logo=MySQL&logoColor=4479A1)
